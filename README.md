@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**torgeiraamboe/torgeiraamboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+My name is Torgeir and I'm currently a mathematics student at NTNU in Trondheim, Norway. I specialize in algebraic topology and homotopy theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my [homepage](https://folk.ntnu.no/torgeaam/) and [blog](https://torgeiraamboe.github.io/) for more information. 
+
+### Projects
+
+I like to share what I'm up to, and offer otheres access to things I have created. Hence there are a couple different things you will find (or soon find) on this page. 
+
+ - My theses
+     - [Bachelor thesis](https://github.com/torgeiraamboe/bachelor_thesis) on naive homotopy theory for schemes 
+     - [Master thesis](https://github.com/torgeiraamboe/master_thesis) on formal DG-algebras 
+ - [My mathematics blog](https://github.com/torgeiraamboe/torgeiraamboe.github.io)
+ - [Mathematical figures](https://github.com/torgeiraamboe/mathematical_figures)
+ - Papers and preprints
+     - [Formality of LS-category 1 spaces](https://github.com/torgeiraamboe/formality_of_lscat1_spaces)
+     - [The anaconda lemma](https://github.com/torgeiraamboe/anaconda_lemma)
+ - Presentations
+     - The Poincaré conjecture
+     - Formal DG-algebras
+     - The model structure on DGA_k
+     - Crashcourse in linear algebra (MA1202)
+     - Bachelor defence
+     - Master defence
+ - Write-ups and lecture notes
+     - [MA8203 - Algebraic geometry](https://github.com/torgeiraamboe/MA8203-lecture_notes)
+     - Introduction to higher category theory
+
+
