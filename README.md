@@ -17,9 +17,6 @@ I like to share what I'm up to, and offer otheres access to things I have create
      - [Master thesis](https://github.com/torgeiraamboe/master_thesis) on formal DG-algebras 
  - [My mathematics blog](https://github.com/torgeiraamboe/torgeiraamboe.github.io)
  - [Mathematical figures](https://github.com/torgeiraamboe/mathematical_figures)
- - Papers and preprints
-     - [Formality of LS-category 1 spaces](https://github.com/torgeiraamboe/formality_of_lscat1_spaces)
-     - [The anaconda lemma](https://github.com/torgeiraamboe/anaconda_lemma)
  - Write-ups and lecture notes
      - [MA8203 - Algebraic geometry](https://github.com/torgeiraamboe/MA8203-lecture_notes)
      - Introduction to higher category theory
