@@ -2,7 +2,7 @@
 
 ### About
 
-My name is Torgeir and I'm currently a mathematics student at NTNU in Trondheim, Norway. I specialize in algebraic topology and homotopy theory.
+My name is Torgeir and I'm currently a PhD student in mathematics at NTNU in Trondheim, Norway. I specialize in algebraic topology and homotopy theory.
 
 ### Contact
 
