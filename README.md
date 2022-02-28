@@ -12,6 +12,9 @@ Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my 
 
 I like to share what I'm up to, and offer otheres access to things I have created. Hence there are a couple different things you will find (or soon find) on this page. 
 
+ - Articles
+     - [Formality of spaces with Lusternik-Schnirelmann category 1](https://github.com/torgeiraamboe/formality_of_spaces_with_lusternik-schnirelmann_category_1)
+     - [The anaconda lemma]()
  - My theses
      - [Bachelor thesis](https://github.com/torgeiraamboe/bachelor_thesis) on naive homotopy theory for schemes 
      - [Master thesis](https://github.com/torgeiraamboe/master_thesis) on formal DG-algebras 
@@ -19,6 +22,7 @@ I like to share what I'm up to, and offer otheres access to things I have create
  - [Mathematical figures](https://github.com/torgeiraamboe/mathematical_figures)
  - Write-ups and lecture notes
      - [MA8203 - Algebraic geometry](https://github.com/torgeiraamboe/MA8203-lecture_notes)
-     - Introduction to higher category theory
+     - [Hilbert's nullstellensatz]()
+     - [The cohomology ring of Gr_4(C^2)]()
 
 
