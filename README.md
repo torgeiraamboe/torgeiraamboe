@@ -17,7 +17,9 @@ I like to share what I'm up to, and offer others access to things I have created
      - [The anaconda lemma](https://github.com/torgeiraamboe/anaconda_lemma)
  - My theses
      - [Bachelor thesis](https://github.com/torgeiraamboe/bachelor_thesis) on naive homotopy theory for schemes 
-     - [Master thesis](https://github.com/torgeiraamboe/master_thesis) on formal DG-algebras 
+     - [Master thesis](https://github.com/torgeiraamboe/master_thesis) on formal DG-algebras
+ - Teaching
+     - [MA2401 - Geometry (Spring 2022)](https://github.com/torgeiraamboe/MA2401_V22)
  - Write-ups and lecture notes
      - [MA8203 - Algebraic geometry](https://github.com/torgeiraamboe/MA8203-lecture_notes)
      - [Hilbert's nullstellensatz](https://github.com/torgeiraamboe/hilberts_nullstellensatz)
