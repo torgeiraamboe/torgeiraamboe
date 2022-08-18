@@ -27,7 +27,8 @@ I like to share what I'm up to, and offer others access to things I have created
      - [The Poincaré conjecture](https://github.com/torgeiraamboe/poincare_conjecture) – Unfinished
      - [Introduction to higher categories](https://github.com/torgeiraamboe/higher_categories) – Norwegian
      - [Stable model categories](https://github.com/torgeiraamboe/stable_model_categories) – Unfinished
-     - [A beginners introduction to groups](https://github.com/torgeiraamboe/a_beginners_introduction_to_groups) – Norwegian 
+     - [A beginners introduction to groups](https://github.com/torgeiraamboe/a_beginners_introduction_to_groups) – Norwegian
+     - [Solutions to some problems I made for Equinor](https://github.com/torgeiraamboe/equinor_solutions) in connection to IMO2022
  - [My mathematics blog](https://github.com/torgeiraamboe/torgeiraamboe.github.io)
  - [Mathematical figures](https://github.com/torgeiraamboe/mathematical_figures)
  - [An archive of theses](https://github.com/FagKom/fagkom.github.io) in mathematics and physics written by students in Delta
