@@ -31,5 +31,6 @@ I like to share what I'm up to, and offer others access to things I have created
  - [My mathematics blog](https://github.com/torgeiraamboe/torgeiraamboe.github.io)
  - [Mathematical figures](https://github.com/torgeiraamboe/mathematical_figures)
  - [An archive of theses](https://github.com/FagKom/fagkom.github.io) in mathematics and physics written by students in Delta
+ - [Webpage for a seminar I am coorganizing](https://github.com/YoungHomSeminar/younghomseminar.github.io) called Young Homotopy-theorist Online Meeting
 
 
