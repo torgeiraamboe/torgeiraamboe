@@ -2,7 +2,7 @@
 
 ### About
 
-My name is Torgeir and I'm currently a researcher at FFI. I have a PhD in mathematics from NTNU in Trondheim, Norway, where I specialized in the interactions between chromatic homotopy theory and homological algebra.
+My name is Torgeir and I'm currently a researcher at FFI, working mainly in operations research. I have a PhD in mathematics from NTNU in Trondheim, Norway, where I specialized in the interactions between chromatic homotopy theory and homological algebra.
 
 ### Contact
 
