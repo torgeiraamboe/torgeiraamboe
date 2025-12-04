@@ -2,9 +2,9 @@
 
 ### About
 
-My name is Torgeir and I'm currently a PhD student in mathematics at NTNU in Trondheim, Norway. I specialize in the interactions between stable homotopy theory and homological algebra.
+My name is Torgeir and I'm currently a researcher at FFI. I have a PhD in mathematics from NTNU in Trondheim, Norway, where I specialized in the interactions between chromatic homotopy theory and homological algebra.
 
 ### Contact
 
-Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my [homepage](https://folk.ntnu.no/torgeaam/) and [blog](https://torgeiraamboe.github.io/) for more information. 
+Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my [blog](https://torgeiraamboe.github.io/). 
 
