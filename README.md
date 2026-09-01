@@ -6,5 +6,5 @@ My name is Torgeir and I'm currently a researcher at FFI, working mainly in oper
 
 ### Contact
 
-Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my [blog](https://torgeiraamboe.github.io/). 
+Feel free to contact me on [e-mail](mailto:torgeiraamboe@gmail.com) or visit my [webpage](https://torgeiraamboe.github.io/). 
 
